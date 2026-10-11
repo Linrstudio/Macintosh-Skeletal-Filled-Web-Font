@@ -1,6 +1,6 @@
 # Macintosh Skeletal Filled
 
-![hellllllo]([images/hero.png](https://github.com/npwitk/Macintosh-Skeletal-Filled/raw/main/images/hero.png))
+![hellllllo](https://github.com/npwitk/Macintosh-Skeletal-Filled/raw/main/images/hero.png)
 
 The famoussss handwriting from Apple's **"hello"** screen, as fonts you can type with.
 
